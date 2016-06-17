@@ -1,0 +1,10 @@
+﻿<Window x:Class="LANSupervisor.BrowserHistoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BrowserHistoryWindow" Height="500" Width="650" Topmost="True">
+    <Grid>
+        <ListBox x:Name="Listbox" Height="{Binding ActualHeight, ElementName=BrowserHistoryWindow}" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            
+        </ListBox>
+    </Grid>
+</Window>

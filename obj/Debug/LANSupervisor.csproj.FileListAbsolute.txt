@@ -1,0 +1,79 @@
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe.config
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.pdb
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor_MarkupCompile.cache
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.g.resources
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.Properties.Resources.resources
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.exe
+C:\Users\Adam\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.pdb
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe.config
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.exe
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.pdb
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.pdb
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csprojResolveAssemblyReference.cache
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.baml
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.g.cs
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\App.g.cs
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor_MarkupCompile.cache
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.g.resources
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.Properties.Resources.resources
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csproj.GenerateResource.Cache
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\SessionWindow.baml
+C:\Users\sebb\Desktop\LANSupervisor\LANSupervisor\obj\Debug\SessionWindow.g.cs
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe.config
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.exe
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.pdb
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.pdb
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\SessionWindow.baml
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\SessionWindow.g.cs
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor_MarkupCompile.cache
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.g.resources
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.Properties.Resources.resources
+C:\Users\Adam\Desktop\Nowy folder (3)\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe.config
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.exe
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.pdb
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.pdb
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\SessionWindow.baml
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\SessionWindow.g.cs
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor_MarkupCompile.cache
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.g.resources
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.Properties.Resources.resources
+C:\Users\Adam\Desktop\LAN Supervisor\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe.config
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.exe
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.pdb
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.baml
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\ProcessWindow.baml
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\SessionWindow.baml
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\MainWindow.g.cs
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\ProcessWindow.g.cs
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\SessionWindow.g.cs
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\App.g.cs
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor_MarkupCompile.cache
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.g.resources
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.Properties.Resources.resources
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.exe
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\bin\Debug\LANSupervisor.pdb
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\sample.baml
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\sample.g.cs
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\LANSupervisor.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\BrowserHistoryWindow.baml
+C:\Users\Adam\Desktop\Przemkov\LANSupervisor\LANSupervisor\obj\Debug\BrowserHistoryWindow.g.cs
